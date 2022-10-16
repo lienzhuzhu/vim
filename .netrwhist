@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/lienzhu/332/lab2-lienzhuzhu/lien-lab-two/lien-lab-two'
+let g:netrw_dirhist_8='/Users/lienzhu/332/lab2-lienzhuzhu/lien-lab-two'
+let g:netrw_dirhist_7='/Users/lienzhu/332/lab2-lienzhuzhu'
+let g:netrw_dirhist_6='/Users/lienzhu/332/lab2-lienzhuzhu/lien-lab-two/lien-lab-two'
+let g:netrw_dirhist_5='/Users/lienzhu/332/lab2-lienzhuzhu/lien-lab-two'
+let g:netrw_dirhist_4='/Users/lienzhu/332/lab2-lienzhuzhu'
+let g:netrw_dirhist_3='/Users/lienzhu/332'
+let g:netrw_dirhist_2='/Users/lienzhu'
+let g:netrw_dirhist_1='/Users/lienzhu/332'
+let g:netrw_dirhist_0='/Users/lienzhu/332/lab/wrap/Lab5'
